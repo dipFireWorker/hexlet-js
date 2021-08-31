@@ -19,5 +19,9 @@
   "homepage": "https://github.com/dipFireWorker/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0",
+    "prettier": "^2.3.2"
   }
 }
